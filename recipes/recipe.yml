@@ -24,6 +24,7 @@ modules:
       - podman-compose
       - virt-manager
       - virt-install
+      - bridge-utils
     remove:
       # example: removing firefox (in favor of the flatpak)
       - firefox
