@@ -26,6 +26,7 @@ modules:
       - virt-install
       - bridge-utils
       - waydroid
+      - avahi-compat-libdns_sd
     remove:
       # example: removing firefox (in favor of the flatpak)
       - firefox
