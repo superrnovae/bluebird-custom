@@ -26,6 +26,7 @@ modules:
       - bridge-utils
       - waydroid
       - avahi-compat-libdns_sd
+      - libimobiledevice-utils
     remove:
       # example: removing firefox (in favor of the flatpak)
       - firefox
